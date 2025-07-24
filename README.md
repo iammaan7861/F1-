@@ -101,9 +101,8 @@ Currently pursuing Data Analytics Mentorship Program (CAMPxDAMP)
 
 ## 📫 Contact
 
-📧 babbalpreet.singh@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-🌐 [Portfolio (optional)](https://your-portfolio.com)
+📧 babbalpreetsingh.bt23ele@pec.edu.in
+🔗 [LinkedIn](www.linkedin.com/in/babbal-maan-85155b288E)  
 
 ---
 
