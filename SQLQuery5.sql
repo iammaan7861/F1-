@@ -1,0 +1,1 @@
+SELECT * FROM rpt.vw_RaceResults;
